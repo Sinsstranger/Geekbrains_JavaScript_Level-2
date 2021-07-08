@@ -1,0 +1,22 @@
+header {
+    background: darkcyan;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    padding: 1rem 1em;
+}
+
+.cart-button {
+    font-size: 1.2em;
+    border: none;
+    border-radius: .2em;
+    padding: .5em .7em;
+    background-color: antiquewhite;
+}
+.goods-list{
+    display: flex;
+    flex-wrap: wrap;
+}
+.goods-item{
+    flex: 1 0 120px;
+}
