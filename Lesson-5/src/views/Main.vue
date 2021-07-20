@@ -1,5 +1,5 @@
 <template>
-  <main>
+  <main class="main">
     <main-promo/>
     <categories/>
     <fetured-items/>
